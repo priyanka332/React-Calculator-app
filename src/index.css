@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: bisque;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+h1 {
+  color: rgb(236, 114, 70);
+  font-size: 40px;
+  margin: 0rem 32rem;
+  margin-top: 1.5rem;
+  border: transparent;
+  border-radius: 2rem;
+  box-shadow: 6px 6px 20px black;
+}
+
+.center_div{
+  width: 320px;
+  margin: auto;
+  margin-top: 1.5rem;
+  box-shadow: 10px 10px 30px black;
+  border-radius: 1rem;
+}
+
+#answer{
+  background-color: #eeecec;
+  padding: 11px;
+  font-size: 35px;
+  width: 294.5px;
+  height: 45px;
+  text-align: right;
+  border: 2px solid #333;
+}
+
+.input {
+  border-radius: 1rem;
+}
+
+.button{
+  background: rgb(138, 136, 136);
+  height: 80px;
+  width: 80px;
+  color: white;
+  font-size: 30px;
+  border: 1px solid black;
+  border-radius: 0.6rem;
+}
+
+.button1{
+  width: 160px;
+  background-color: rgb(250, 27, 27);
+}
+
+.button2{
+  width: 160px;
+}
